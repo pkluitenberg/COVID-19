@@ -81,7 +81,7 @@ def from_url(url:str, dest:str, overwrite=False, make_dir=False):
             wget.download(url,dest)
         except:
             return("File could not be downloaded. Check URL")
-        return("File downloaded to the following location: ", dest)
+        return("File downloaded to the following location: " +  dest)
     
 def scrape_link(url:str, file_type:str):
     """
