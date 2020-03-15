@@ -42,7 +42,7 @@ PyGObject==3.30.4
 pyrsistent==0.15.7
 python-dateutil==2.8.1
 pytz==2019.3
-pyxdg==0.25
+pyxdg==0.26
 pyzmq==19.0.0
 requests==2.23.0
 SecretStorage==2.3.1
