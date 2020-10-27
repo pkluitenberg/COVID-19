@@ -6,7 +6,7 @@ bleach==3.1.1
 certifi==2019.11.28
 chardet==3.0.4
 configparser==4.0.2
-cryptography==2.6.1
+cryptography==3.2
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
